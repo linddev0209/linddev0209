@@ -17,7 +17,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20developer%20Blockchain%20engineer;7+%2B%20years%20of%20working%20experience&width=380&height=45">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20and%20Blockchain%20engineer;7+%2B%20years%20of%20working%20experience&width=380&height=45">
   </a>
 </p>
 
